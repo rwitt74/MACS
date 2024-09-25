@@ -1,3 +1,4 @@
 # MACS
 
-Some MACS projet
+Some MACS projets.
+
